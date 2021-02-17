@@ -29,7 +29,7 @@ Our short-term strategy is to create 5 of the most realistic and interactive and
 
 
 ## **Currently looking for Developers:**
-1. ### ***3D Artists
+1. ### **3D Artists**
    - Blender or 3ds Max
 2. ### **Texture Artists**
     - Photoshop
@@ -50,7 +50,6 @@ Our short-term strategy is to create 5 of the most realistic and interactive and
 
 ### About our Project
 1. [Bohemia Post](https://forums.bohemia.net/forums/topic/223859-h-60-interactive-blackhawk-pack-hh-60-pave-hawk-rescue-hoist/)
-
 2. [Helisimmer Article](https://www.helisimmer.com/news/arma-iii-uh-60m-interactive-blackhawk)
 3. [Current in-game video](https://www.youtube.com/watch?v=O5s4fXX1zZ0&feature=emb_lo)
 
